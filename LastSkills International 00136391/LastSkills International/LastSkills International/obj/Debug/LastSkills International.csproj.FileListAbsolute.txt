@@ -1,0 +1,17 @@
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\bin\Debug\LastSkills International.exe.config
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\bin\Debug\LastSkills International.exe
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\bin\Debug\LastSkills International.pdb
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\obj\Debug\LastSkills International.csproj.AssemblyReference.cache
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\obj\Debug\LastSkills_International.Form1.resources
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\obj\Debug\LastSkills_International.Form2.resources
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\obj\Debug\LastSkills_International.Form3.resources
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\obj\Debug\LastSkills_International.Form4.resources
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\obj\Debug\LastSkills_International.Form5.resources
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\obj\Debug\LastSkills_International.Form6.resources
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\obj\Debug\LastSkills_International.Form7.resources
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\obj\Debug\LastSkills_International.Form8.resources
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\obj\Debug\LastSkills_International.Properties.Resources.resources
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\obj\Debug\LastSkills International.csproj.GenerateResource.cache
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\obj\Debug\LastSkills International.csproj.CoreCompileInputs.cache
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\obj\Debug\LastSkills International.exe
+C:\Users\nisal\source\repos\LastSkills International\LastSkills International\obj\Debug\LastSkills International.pdb
